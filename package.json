@@ -1,0 +1,15 @@
+{
+  "name": "openweather",
+  "version": "1.0.0",
+  "description": "an unofficial node js module to collect openweather data",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "smokeeaasd",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "save-dev": "^0.0.1-security"
+  }
+}
