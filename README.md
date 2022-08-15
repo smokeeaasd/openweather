@@ -1,4 +1,4 @@
-Requisitos: NodeJS V.18
+Requisitos: NodeJS v18 ^
 
 Um pacote para extrair dados da OpenWeatherMap API
 
