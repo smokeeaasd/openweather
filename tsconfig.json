@@ -1,5 +1,11 @@
 {
 	"compilerOptions": {
-		"target": "ES6",
+		"module": "NodeNext",
+		"lib": ["DOM"],
+		"allowJs": true,
+		"outDir": "./public",
+		"declaration": true,
 	},
+	"include": ["src/**/*"],
+	"exclude": ["node_modules"],
 }

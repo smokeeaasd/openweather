@@ -1,15 +1,14 @@
 {
-  "name": "openweather",
-  "version": "1.0.0",
-  "description": "an unofficial node js module to collect openweather data",
-  "main": "index.ts",
+  "name": "@smokeeaasd/weather",
+  "version": "1.0.10",
+  "description": "an unofficial node js module to collect openweathermap data",
+  "main": "./public/OpenWeather.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "author": "smokeeaasd",
   "license": "ISC",
-  "dependencies": {
-    "@types/node": "^18.0.6",
-    "save-dev": "^0.0.1-security"
+  "devDependencies": {
+    "@types/node": "^18.7.3"
   }
 }
